@@ -1,0 +1,15 @@
+  smooth degree-3 hypersurface in P^3: sheaf route [0, 6], classical [0, 6]
+  smooth degree-4 hypersurface in P^3: sheaf route [1, 19], classical [1, 19]
+  smooth degree-5 hypersurface in P^3: sheaf route [4, 44], classical [4, 44]
+  smooth degree-3 hypersurface in P^4: sheaf route [0, 5], classical [0, 5]
+  smooth degree-4 hypersurface in P^4: sheaf route [0, 30], classical [0, 30]
+  smooth degree-5 hypersurface in P^4: sheaf route [1, 101], classical [1, 101]
+  smooth degree-3 hypersurface in P^5: sheaf route [0, 1, 20], classical [0, 1, 20]
+  smooth degree-6 hypersurface in P^5: sheaf route [1, 426, 1751], classical [1, 426, 1751]
+  smooth degree-6 hypersurface in P^3: sheaf route [10, 85], classical [10, 85]
+(c) classical smooth hypersurfaces: 9/9
+(a) random non-degenerate (w,d) (N=3..6; 16 Calabi-Yau): sheaf route == Poincare-series coefficient for 3000/3000 Hodge numbers
+(b) of these, 300 with mu < 4000: sheaf route == Groebner dim (M_f)_((p+1)d - sum w) for ALL p in 300/300 [14s]
+(d) 7d: sheaf route == AHHHSS Groebner (h30_S, h21_S): 7549/7549
+(d) 5d: sheaf route == Groebner-verified (h20_S, h11_S) of the 95 K3 links: 95/95
+(d) 9d: sheaf route == table (h31_S, h22_S): 1100055/1100055 [856s]; failures []

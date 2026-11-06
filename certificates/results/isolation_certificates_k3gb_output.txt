@@ -1,0 +1,1 @@
+K3Topological_Data.txt: 95 polynomials with recorded Groebner (h20_S, h11_S); isolated (dim 0 mod 32003) 95/95; vdim == mu 95/95; recorded (h20_S, h11_S) == (1, p(d) - sum p(w_i)) 95/95; exceptions []

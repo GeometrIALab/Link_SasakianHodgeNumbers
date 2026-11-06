@@ -1,0 +1,5 @@
+failures per identity over 7555 weight systems: {'F1': 0, 'F2': 0, 'F3': 0, 'F4': 0}
+h21_S == h21_CY: 4202 of 7555 (of which 4198 in the paper's 7549)
+weight systems with a positive-genus twisted curve: 3353
+max gap: 66
+wrote data/cy3_links.csv

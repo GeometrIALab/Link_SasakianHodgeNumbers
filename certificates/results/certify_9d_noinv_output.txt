@@ -1,0 +1,1 @@
+25 weight systems with no invertible polynomial, <= 2500 monomials in degree 2d and mu <= 10^7, dense random f: h31_S certified == table 25/25, h22_S certified == table 25/25 [15s]; failures: []

@@ -1,0 +1,32 @@
+=== six_remaining_7d.py
+exit 0 after 152s
+(1, 6, 40, 93, 140): f = z1^280 + z1z4^3 + z2^40z3 + z3^7 + z5^2
+   invertible f: certified in all 841 degrees: True; sum dim (M_f)_l = 153714; h30_S = 1, h21_S = dim (M_f)_d = 274, dim (M_f)_2d = 274; nu = 19; Hilbert function == P_w: True; max dim K1 = 21883
+   dense f (381 terms): h21_S = 274 certified True   [43s]
+=== groebner_9d.py
+exit 0 after 54s
+(2, 2, 2, 3, 3, 3)     invertible           Q            6     9    0.0s   17576    True  True   1  187   788    (187, 788) OK
+(1, 1, 1, 2, 4, 5)     invertible           Q            6    11    0.0s   59319    True  True   1  698  2841   (698, 2841) OK
+(1, 1, 2, 2, 3, 6)     invertible           Q            6    10    0.0s   49686    True  True   1  544  2224   (544, 2224) OK
+=== milnor_orlik_check.py
+exit 0 after 96s
+7d: Milnor-Orlik b_3 == 2 + 2 h21_S (Groebner data of AHHHSS): 7549/7549
+9d: Milnor-Orlik b_4 == 2 + 2 h31_S + h22_S (deliverable table): 1100055/1100055 [95s]; failures: []
+=== itoh_independent_check.py
+exit 0 after 881s
+(d) 7d: sheaf route == AHHHSS Groebner (h30_S, h21_S): 7549/7549
+(d) 5d: sheaf route == Groebner-verified (h20_S, h11_S) of the 95 K3 links: 95/95
+(d) 9d: sheaf route == table (h31_S, h22_S): 1100055/1100055 [856s]; failures []
+=== certify_9d.py 0 1
+exit 0 after 40s
+      h31_S certified == table 0/0;  h22_S certified == table 0/0
+    dense random f: h31_S 0/0;  h22_S 0/0
+total time 0s
+=== certify_9d_noinv.py 25 
+exit 0 after 27s
+25 weight systems with no invertible polynomial and <= 2500 monomials in degree 2d, dense random f: h31_S certified == table 25/25, h22_S certified == table 25/25 [18s]; failures: []
+=== certify_9d_stratified.py 100 2024
+exit 0 after 123s
+  11  100       1        100          100/100    178826            13/13    365158
+  12  100       0        100          100/100    178162              0/0         0
+total: 900 weight systems (900 with chain/loop summands); h31_S 900/900, h22_S 655/655; 114s

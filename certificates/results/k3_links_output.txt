@@ -1,0 +1,2 @@
+K3 links: 95/95 satisfy (h20_S,h11_S) = Groebner data AND 1 + h11_S + sum(k_p - 1) = 20
+h11_S range: 1 - 19

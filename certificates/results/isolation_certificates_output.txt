@@ -1,0 +1,13 @@
+Isolation certificates: Groebner basis of the Jacobian ideal over F_32003 (Singular, order wp(w)); dim 0 over F_p implies dim 0 over Q.
+six7d_inv: 6 polynomials; isolated (dim 0 mod p) 6/6; vdim == mu 6/6
+six7d_dense: 6 polynomials; isolated (dim 0 mod p) 6/6; vdim == mu 6/6; graded dimensions re-certified (and equal to the table) 6/6
+cy4_noinv: 25 polynomials; isolated (dim 0 mod p) 25/25; vdim == mu 25/25; graded dimensions re-certified (and equal to the table) 25/25
+cy4_42: 42 polynomials; isolated (dim 0 mod p) 42/42; vdim == mu 42/42
+   six7d_dense (1, 1, 8, 19, 28): 480 terms; dim (M_f)_d = 348 certified True; isolated True; vdim 39788 = mu 39788
+   six7d_dense (1, 1, 9, 21, 32): 536 terms; dim (M_f)_d = 387 certified True; isolated True; vdim 49665 = mu 49665
+   six7d_dense (1, 1, 11, 26, 39): 640 terms; dim (M_f)_d = 462 certified True; isolated True; vdim 72226 = mu 72226
+   six7d_dense (1, 1, 12, 28, 42): 680 terms; dim (M_f)_d = 491 certified True; isolated True; vdim 82668 = mu 82668
+   six7d_dense (1, 6, 34, 81, 122): 341 terms; dim (M_f)_d = 245 certified True; isolated True; vdim 119805 = mu 119805
+   six7d_dense (1, 6, 40, 93, 140): 381 terms; dim (M_f)_d = 274 certified True; isolated True; vdim 153714 = mu 153714
+   cy4_noinv: largest mu 9217440, largest number of terms 193
+time of this run 0s on 8 cores (earlier results are reused; the time of each polynomial is the field 'sec' of results/isolation_certificates_results.jsonl)

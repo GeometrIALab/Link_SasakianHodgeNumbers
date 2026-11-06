@@ -1,0 +1,10 @@
+Exact certificates for 9d links; table has 1100055 weight systems; seed 1
+  42-set (2, 2, 2, 2, 3, 3): h31 225 (table 225, cert True); h22 886 (table 886, cert True) size (2340, 3079)
+  42-set (1, 2, 3, 3, 3, 3): h31 265 (table 265, cert True); h22 1056 (table 1056, cert True) size (2948, 3794)
+  42-set (2, 2, 2, 3, 3, 3): h31 187 (table 187, cert True); h22 788 (table 788, cert True) size (2166, 2807)
+(1) follow-up polynomials: h31_S certified == table 42/42; h22_S certified == table 3/3 (those with <= 4000 monomials in degree 2d)
+(2) 0 random weight systems with <= 3000 degree-d monomials; 0 admit no invertible polynomial.
+    invertible f (quasi-smooth by Kreuzer-Skarke; 0 contain a chain or loop):
+      h31_S certified == table 0/0;  h22_S certified == table 0/0
+    dense random f: h31_S 0/0;  h22_S 0/0
+total time 0s

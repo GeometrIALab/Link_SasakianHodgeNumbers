@@ -1,0 +1,2 @@
+7d: Milnor-Orlik b_3 == 2 + 2 h21_S (Groebner data): 7549/7549
+9d: Milnor-Orlik b_4 == 2 + 2 h31_S + h22_S (deliverable table): 1100055/1100055 [95s]; failures: []

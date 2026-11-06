@@ -1,0 +1,20 @@
+  100000 done, 25s
+  200000 done, 52s
+  300000 done, 82s
+  400000 done, 113s
+  500000 done, 143s
+  600000 done, 173s
+  700000 done, 202s
+  800000 done, 232s
+  900000 done, 261s
+  1000000 done, 292s
+  1100000 done, 322s
+weight systems processed: 1100055 (unparsed lines: 0); time 322s
+(c1) p(d) == Newton-polytope point count M: failures 0
+(c2) h31_CY - h31_S == sum over twisted surfaces of p_g: failures 0
+(c3) h22_S <= h22_CY - 1: failures 0
+(c4) chi == 6(8+h11+h31-h21): failures 0
+equality h31_S == h31_CY: 534935;  equality h22_S == h22_CY - 1: 2
+max h31_S (303148, '1 1 84 516 1204 1806'), max h22_S (1213142, '1 1 84 516 1204 1806')
+max Milnor number (2970462320784, '1 1806 75894 466206 1087814 1631721')
+Milnor number decades (floor log10 mu: count): 4:29422, 5:184649, 6:324675, 7:309449, 8:172393, 9:63996, 10:13329, 11:2034, 12:108

@@ -1,0 +1,30 @@
+Stratified exact certificates; per_bin=100, seed=2024, caps: #mon(d)<=400000, #mon(2d)<=400000
+  progress 50/900 [0s]
+  progress 100/900 [0s]
+  progress 150/900 [1s]
+  progress 200/900 [2s]
+  progress 250/900 [3s]
+  progress 300/900 [4s]
+  progress 350/900 [7s]
+  progress 400/900 [11s]
+  progress 450/900 [19s]
+  progress 500/900 [29s]
+  progress 550/900 [46s]
+  progress 600/900 [63s]
+  progress 650/900 [79s]
+  progress 700/900 [93s]
+  progress 750/900 [97s]
+  progress 800/900 [106s]
+  progress 850/900 [111s]
+  progress 900/900 [114s]
+ bin    n no inv. chain/loop  h31 cert==table  max cols  h22 cert==table  max cols
+   4  100      26        100          100/100       251          100/100      3220
+   5  100      29        100          100/100      1563          100/100     21513
+   6  100      24        100          100/100      4384          100/100     61586
+   7  100      13        100          100/100     12472          100/100    175514
+   8  100      13        100          100/100     35627            98/98    326426
+   9  100      10        100          100/100     96100            88/88    383417
+  10  100       9        100          100/100    179720            56/56    374297
+  11  100       1        100          100/100    178826            13/13    365158
+  12  100       0        100          100/100    178162              0/0         0
+total: 900 weight systems (900 with chain/loop summands); h31_S 900/900, h22_S 655/655; 114s

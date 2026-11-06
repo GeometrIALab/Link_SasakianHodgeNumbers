@@ -1,0 +1,27 @@
+w | d | h30_S h21_S (weights) | mu | nu | KS (h11,h21) | LG (h11,h21) | defect: twisted curves (w_F, g, genus) | NN SR
+(1, 1, 8, 19, 28) | 57 | 1 348 | 39788 | 27 | (18, 348) | (18, 348) | 0 = 0: [] | (257, 338)
+(1, 1, 9, 21, 32) | 64 | 1 387 | 49665 | 31 | (15, 387) | (15, 387) | 0 = 0: [] | (272, 377)
+(1, 1, 11, 26, 39) | 78 | 1 462 | 72226 | 35 | (12, 462) | (12, 462) | 0 = 0: [] | (293, 447)
+(1, 1, 12, 28, 42) | 84 | 1 491 | 82668 | 37 | (11, 491) | (11, 491) | 0 = 0: [((12, 28, 42), 2, 0)] | (299, 476)
+(1, 6, 34, 81, 122) | 244 | 1 245 | 119805 | 19 | (60, 246) | (60, 246) | 1 = 1: [((6, 34, 122), 2, 1)] | (243, 243)
+(1, 6, 40, 93, 140) | 280 | 1 274 | 153714 | 19 | (59, 275) | (59, 275) | 1 = 1: [((6, 40, 140), 2, 1)] | (265, 272)
+
+Polynomial-level certificates (no Groebner basis, no Poincare series):
+(1, 1, 8, 19, 28): f = z1^29z5 + z1z5^2 + z2^49z3 + z2z3^7 + z4^3
+   invertible f: certified in all 172 degrees: True; sum dim (M_f)_l = 39788; h30_S = 1, h21_S = dim (M_f)_d = 348, dim (M_f)_2d = 348; nu = 27; Hilbert function == P_w: True; max dim K1 = 27558
+   dense f (480 terms): h21_S = 348 certified True   [13s]
+(1, 1, 9, 21, 32): f = z1^43z4 + z1z3^7 + z2^64 + z2z4^3 + z5^2
+   invertible f: certified in all 193 degrees: True; sum dim (M_f)_l = 49665; h30_S = 1, h21_S = dim (M_f)_d = 387, dim (M_f)_2d = 387; nu = 31; Hilbert function == P_w: True; max dim K1 = 30840
+   dense f (536 terms): h21_S = 387 certified True   [15s]
+(1, 1, 11, 26, 39): f = z1^78 + z1z3^7 + z2^67z3 + z4^3 + z5^2
+   invertible f: certified in all 235 degrees: True; sum dim (M_f)_l = 72226; h30_S = 1, h21_S = dim (M_f)_d = 462, dim (M_f)_2d = 462; nu = 35; Hilbert function == P_w: True; max dim K1 = 36900
+   dense f (640 terms): h21_S = 462 certified True   [21s]
+(1, 1, 12, 28, 42): f = z1^56z4 + z2^72z3 + z3^7 + z4^3 + z5^2
+   invertible f: certified in all 253 degrees: True; sum dim (M_f)_l = 82668; h30_S = 1, h21_S = dim (M_f)_d = 491, dim (M_f)_2d = 491; nu = 37; Hilbert function == P_w: True; max dim K1 = 39231
+   dense f (680 terms): h21_S = 491 certified True   [25s]
+(1, 6, 34, 81, 122): f = z1^122z5 + z1z4^3 + z2^35z3 + z2z3^7 + z5^2
+   invertible f: certified in all 733 degrees: True; sum dim (M_f)_l = 119805; h30_S = 1, h21_S = dim (M_f)_d = 245, dim (M_f)_2d = 245; nu = 19; Hilbert function == P_w: True; max dim K1 = 19560
+   dense f (341 terms): h21_S = 245 certified True   [36s]
+(1, 6, 40, 93, 140): f = z1^280 + z1z4^3 + z2^40z3 + z3^7 + z5^2
+   invertible f: certified in all 841 degrees: True; sum dim (M_f)_l = 153714; h30_S = 1, h21_S = dim (M_f)_d = 274, dim (M_f)_2d = 274; nu = 19; Hilbert function == P_w: True; max dim K1 = 21883
+   dense f (381 terms): h21_S = 274 certified True   [43s]
