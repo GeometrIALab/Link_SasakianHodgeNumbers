@@ -112,4 +112,29 @@ The code, the datasets in `data/` and the certificate outputs are released under
 
 ## Citation
 
-If you use these data, please cite the paper above and arXiv:2310.03064, together with the Kreuzer–Skarke lists for the input weight systems.
+If you use these datasets, please cite this work along with its predecessor:
+``` 
+@article{Hirst:2026zaj,
+    author = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
+    title = "{Sasakian Hodge Numbers of Calabi-Yau Links}",
+    eprint = "2611.17419",
+    archivePrefix = "arXiv",
+    primaryClass = "math.AG",
+    month = "11",
+    year = "2026"
+}
+@article{Aggarwal:2023swe,
+    author = "Aggarwal, Daattavya and He, Yang-Hui and Heyes, Elli and Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
+    title = "{Machine learning Sasakian and G2 topology on contact Calabi-Yau 7-manifolds}",
+    eprint = "2310.03064",
+    archivePrefix = "arXiv",
+    primaryClass = "math.DG",
+    reportNumber = "QMUL-PH-23-14",
+    doi = "10.1016/j.physletb.2024.138517",
+    journal = "Phys. Lett. B",
+    volume = "850",
+    pages = "138517",
+    year = "2024"
+}
+```
+...together with the Kreuzer–Skarke lists for the input weight systems.
